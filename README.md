@@ -1,6 +1,7 @@
 # Films_List
 
-A new Flutter project.
+Flutter project.
+## Please refer Instructions to run codebase.docx for instructions on how to run code base.
 
 ## Getting Started
 
